@@ -22,7 +22,7 @@ Glad you asked!
 3. Fund raising
 4. Housekeeping
 
-# Community (discord channel)
+# Contact us
 https://discord.gg/G3MGZaeXxxx
 
 # People doing similar things
