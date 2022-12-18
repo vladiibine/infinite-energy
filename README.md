@@ -1,4 +1,4 @@
-# The infinite Energy Initiative
+# The Infinite Energy Initiative
 
 This page is the current official web-site of the Infinite Energy Initiative.
 
