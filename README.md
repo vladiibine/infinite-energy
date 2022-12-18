@@ -5,7 +5,7 @@ This page is the current official web-site of the Infinite Energy Initiative.
 The Infinite Energy Initiative is community of people interested in the idea of obtaining a source of infinite energy, and sharing it with everyone in a safe way.
 
 # FAQ
-1. Why do we want infinite energy? To prevent any disaster, and for everyone to be able to get everything they want.
+## 1. Why do we want infinite energy? To prevent any disaster, and for everyone to be able to get everything they want.
 
 Current science tells us that even if our species survives and is able to make scientific progress after the climate changes, we will always have challeges in front of us, for example: 
 * running out of fossil fuels completely
@@ -28,7 +28,7 @@ Not only this, but probably we could do a lot of other cool things, if we had lo
 * not enough room in the solar system? We can create other solar systems
 * the end of the universe is too far away? With infinite energy, you could fly there in very little time (accelerating at 1g for enough time will lead to relativistic effects, whereby one would feel a lot less time has passed for traveling huge distances)
 
-2. Infinite energy!?! Isn't that impossible?
+## 2. Infinite energy!?! Isn't that impossible?
 Physics knows of these limitations:
 1.1. The 1st and 2nd law of thermodinamics
 1.2. The conservation of energy (more generally, Noether's theorem)
@@ -36,6 +36,11 @@ Physics knows of these limitations:
 Our response:
 1.1. The 1st and 2nd law of thermodynamics reffer to closed systems. We don't know if our universe is a closed system. Also, in case it is, we don't know whether we can make it open. We also don't know whether there lies something beyond our universe, or whether potentially, the things beyond our universe contain energy usable by us.
 1.2. Conservation of energy - More or less as above, this law states that energy can't be created or destroyed. However it doesn't say whether an infinite amount of energy already exists, and is convertible according to our needs.
+
+## Has anyone tried to do that before?
+Unfortunately yes, which is why this topic has a bad reputation among the physics community. These attempts were often made by people who ignored science, and repeatedly tried to obtain energy in ways we're pretty certain others have tried before, and failed (perpetual motion machines).
+
+We're not aware of initiatives that try to attack this problem from a scientific view point.
 
 # Community (discord channel)
 https://discord.gg/G3MGZaeXxxx
