@@ -30,12 +30,13 @@ Not only this, but probably we could do a lot of other cool things, if we had lo
 
 ## 2. Infinite energy!?! Isn't that impossible?
 Physics knows of these limitations:
-1.1. The 1st and 2nd law of thermodinamics
-1.2. The conservation of energy (more generally, Noether's theorem)
+
+1. The 1st and 2nd law of thermodinamics
+2. The conservation of energy (more generally, Noether's theorem)
 
 Our response:
-1.1. The 1st and 2nd law of thermodynamics reffer to closed systems. We don't know if our universe is a closed system. Also, in case it is, we don't know whether we can make it open. We also don't know whether there lies something beyond our universe, or whether potentially, the things beyond our universe contain energy usable by us.
-1.2. Conservation of energy - More or less as above, this law states that energy can't be created or destroyed. However it doesn't say whether an infinite amount of energy already exists, and is convertible according to our needs.
+1. The 1st and 2nd law of thermodynamics reffer to closed systems. We don't know if our universe is a closed system. Also, in case it is, we don't know whether we can make it open. We also don't know whether there lies something beyond our universe, or whether potentially, the things beyond our universe contain energy usable by us.
+2. Conservation of energy - More or less as above, this law states that energy can't be created or destroyed. However it doesn't say whether an infinite amount of energy already exists, and is convertible according to our needs.
 
 ## Has anyone tried to do that before?
 Unfortunately yes, which is why this topic has a bad reputation among the physics community. These attempts were often made by people who ignored science, and repeatedly tried to obtain energy in ways we're pretty certain others have tried before, and failed (perpetual motion machines).
