@@ -41,7 +41,14 @@ Our response:
 ## Has anyone tried to do that before?
 Unfortunately yes, which is why this topic has a bad reputation among the physics community. These attempts were often made by people who ignored science, and repeatedly tried to obtain energy in ways we're pretty certain others have tried before, and failed (perpetual motion machines).
 
-We're not aware of initiatives that try to attack this problem from a scientific view point.
+We're not aware of any initiatives like this, started by the physics scientific community.
+
+## 4. How to get involved?
+Glad you asked!
+1. Spread the idea
+2. Do on-topic research
+3. Fund raising
+4. Housekeeping
 
 # Community (discord channel)
 https://discord.gg/G3MGZaeXxxx
