@@ -23,7 +23,8 @@ Glad you asked!
 4. Housekeeping
 
 # Contact us
-[Our channel on discord](https://discord.com/channels/1053976097177481328/1053976098259603549)
+[Invitation to our discord channel](https://discord.gg/G3MGZaeX)
+
 
 # People doing similar things
 1. https://www.effectivealtruism.org/
