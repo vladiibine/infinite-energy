@@ -17,7 +17,8 @@ Current science tells us that even if our species survives and is able to make s
 
 A source of infinite energy gives us hope that we could avoid any such disasters, basically forever.
 Not only this, but probably we could do a lot of other cool things, if we had lots of energy, among which:
-* everyone can have their own planet
+* maintain the possibility of exponential growth forever (economics)
+* everyone can have their own planet, solar system, galaxy, or why not, universe
 * no need for conflicts ever -> everyone can have everything they want.
 * not enough room on the planet? We can create other planets, like Earth
 * not enough room in the solar system? We can create other solar systems
