@@ -23,7 +23,7 @@ Glad you asked!
 4. Housekeeping
 
 # Contact us
-[Invitation to our discord channel](https://discord.gg/G3MGZaeX)
+[Invitation to our discord channel](https://discord.gg/Aq8bpTgHX4)
 
 
 # People doing similar things
