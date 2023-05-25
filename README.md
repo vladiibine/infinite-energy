@@ -1,6 +1,6 @@
 # The Infinite Energy Initiative
 
-This page is the current official web-site of the Infinite Energy Initiative.
+This page was the former web-site of the Infinite Energy Initiative. The current website is now infiniteenergy.org
 
 The Infinite Energy Initiative is community of people interested in the idea of obtaining a source of infinite energy, and sharing it with everyone in a safe way.
 
